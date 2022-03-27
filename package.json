@@ -1,0 +1,25 @@
+{
+  "name": "portfolio_react",
+  "version": "1.0.0",
+  "description": "Portfolio using nodejs, express, react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christophegourmand/portfolio_react.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "react",
+    "portolio"
+  ],
+  "author": "Christophe GOURMAND",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christophegourmand/portfolio_react/issues"
+  },
+  "homepage": "https://github.com/christophegourmand/portfolio_react#readme"
+}
